@@ -1,0 +1,6 @@
+{
+  "name": "QR TO LINK - Liquid Precision Architecture",
+  "description": "Enterprise-grade AI-powered QR platform for dynamic redirection, high-fidelity optical customization, live scanner, and real-time telemetry.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
