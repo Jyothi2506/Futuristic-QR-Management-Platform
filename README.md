@@ -1,0 +1,1 @@
+# Futuristic-QR-Management-Platform
